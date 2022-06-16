@@ -1,5 +1,4 @@
 # toy-robot-react
-===============
 
 > A toy robot simulator written by React + Redux
 
@@ -41,7 +40,8 @@ commands.
 - `The toy robot must not fall off the table during movement. This also includes the initial placement of the toy robot. Any
 move that would cause the robot to fall must be ignored`.
 
-## Completed application screenshot
+## Screenshot of the running application
+![alt screenshot](https://i.imgur.com/vxQZoXq.png)
 
 ## Built with
 
