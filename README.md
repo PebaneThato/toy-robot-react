@@ -41,7 +41,7 @@ commands.
 move that would cause the robot to fall must be ignored`.
 
 ## Screenshot of the running application
-![alt screenshot](https://i.imgur.com/vxQZoXq.png)
+![alt screenshot](https://i.imgur.com/bQokWLj.png)
 
 ## Built with
 
