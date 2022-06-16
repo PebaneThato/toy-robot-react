@@ -43,8 +43,6 @@ move that would cause the robot to fall must be ignored`.
 
 ## Completed application screenshot
 
-![alt screenshot](https://i.imgur.com/Edji2qt.png)
-
 ## Built with
 
 - **[TypeScript](https://www.typescriptlang.org/)**
